@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MulteAtivity</string>
+    <string-array name="Skills">
+        <item>Computer Expert</item>
+        <item>Good in English</item>
+        <item>Quick to Understand</item>
+        <item>Chef</item>
+    </string-array>
+</resources>
